@@ -1,24 +1,27 @@
 [submodule "ChatterBot"]
 	path = ChatterBot
-	url = https://github.com/Seraf/LISA-PLUGINS-ChatterBot.git
+	url = git@github.com:Seraf/LISA-PLUGINS-ChatterBot.git
 [submodule "Vera"]
 	path = Vera
-	url = https://github.com/Seraf/LISA-PLUGINS-Vera.git
+	url = git@github.com:Seraf/LISA-PLUGINS-Vera.git
 [submodule "SNCF"]
 	path = SNCF
-	url = https://github.com/Seraf/LISA-PLUGINS-SNCF.git
+	url = git@github.com:Seraf/LISA-PLUGINS-SNCF.git
 [submodule "Izipedia"]
 	path = Izipedia
-	url = https://github.com/Seraf/LISA-PLUGINS-Izipedia.git
+	url = git@github.com:Seraf/LISA-PLUGINS-Izipedia.git
 [submodule "ProgrammeTV"]
 	path = ProgrammeTV
-	url = https://github.com/Seraf/LISA-PLUGINS-ProgrammeTV.git
+	url = git@github.com:Seraf/LISA-PLUGINS-ProgrammeTV.git
 [submodule "Google"]
 	path = Google
-	url = https://github.com/Seraf/LISA-PLUGINS-Google.git
+	url = git@github.com:Seraf/LISA-PLUGINS-Google.git
 [submodule "Cinema"]
 	path = Cinema
-	url = https://github.com/Seraf/LISA-PLUGINS-Cinema.git
+	url = git@github.com:Seraf/LISA-PLUGINS-Cinema.git
 [submodule "BBox"]
 	path = BBox
-	url = https://github.com/Seraf/LISA-PLUGINS-BBox.git
+	url = git@github.com:Seraf/LISA-PLUGINS-BBox.git
+[submodule "Wifileds"]
+	path = Wifileds
+	url = git@github.com:Seraf/LISA-PLUGINS-Wifileds.git
