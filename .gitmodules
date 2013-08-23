@@ -22,6 +22,6 @@
 [submodule "BBox"]
 	path = BBox
 	url = git@github.com:Seraf/LISA-PLUGINS-BBox.git
-[submodule "Wifileds"]
-	path = Wifileds
-	url = git@github.com:Seraf/LISA-PLUGINS-Wifileds.git
+[submodule "Wifiledlamps"]
+	path = Wifiledlamps
+	url = git@github.com:Seraf/LISA-PLUGINS-Wifiledlamps.git
