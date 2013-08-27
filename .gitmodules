@@ -25,3 +25,6 @@
 [submodule "Wifiledlamps"]
 	path = Wifiledlamps
 	url = git@github.com:Seraf/LISA-PLUGINS-Wifiledlamps.git
+[submodule "Shopping"]
+	path = Shopping
+	url = git@github.com:Seraf/LISA-PLUGINS-Shopping.git
