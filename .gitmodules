@@ -28,3 +28,6 @@
 [submodule "Shopping"]
 	path = Shopping
 	url = git@github.com:Seraf/LISA-PLUGINS-Shopping.git
+[submodule "Meteo"]
+	path = Meteo
+	url = git@github.com:Seraf/LISA-PLUGINS-Meteo.git
